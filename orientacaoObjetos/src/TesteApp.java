@@ -1,5 +1,5 @@
 public class TesteApp {
     public static void main(String[] args) {
-        System.out.println("Teste Github");
+        System.out.println("Teste Git Hub");
     }
 }
